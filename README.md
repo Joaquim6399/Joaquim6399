@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joaquim6399
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning dotnet core & c#
+- 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on like minded people
 - 📫 How to reach me ...
 
